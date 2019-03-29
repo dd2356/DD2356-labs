@@ -1,4 +1,4 @@
-#define N 5000
+#define N 100000
 #include <stdio.h>
 #include <sys/time.h>
 #include <stdint.h>
@@ -49,36 +49,41 @@ int main(){
     c[i] = a[i]*b[i];
   }
 
-#define REPEAT 1000
+#define MEASUREMENTS 10000
+#define REPEAT 100
 
-  double tempSum = 0;
-  // measure performance                                                           
-  for (int j = 0; j < REPEAT; j++) {
+  for (int m = 0; m < MEASUREMENTS; m++) {
+
+    double tempSum = 0;
+    // measure performance                                                           
+    for (int j = 0; j < REPEAT; j++) {
+      RDTSC_START();
+      for(i = 0; i < N; i++) {
+        c[i] = a[i]*b[i]+j;
+      }
+      RDTSC_STOP();
+      ticks = elapsed(start_hi, start_lo, end_hi, end_lo);
+      tempSum += 1.0/(double)ticks;
+    }
     RDTSC_START();
-    for(i = 0; i < N; i++) {
-      c[i] = a[i]*b[i]+j;
+    for (int j = 0; j < REPEAT; j++) {
+      for(i = 0; i < N; i++) {
+        c[i] = a[i]*b[i]+j;
+      }
     }
     RDTSC_STOP();
     ticks = elapsed(start_hi, start_lo, end_hi, end_lo);
-    tempSum += 1.0/(double)ticks;
-  }
-  RDTSC_START();
-  for (int j = 0; j < REPEAT; j++) {
+
+    t2 = mysecond();
+    double s = 0;
     for(i = 0; i < N; i++) {
-      c[i] = a[i]*b[i]+j;
+      s += c[i];
     }
-  }
-  RDTSC_STOP();
-  ticks = elapsed(start_hi, start_lo, end_hi, end_lo);
 
-  t2 = mysecond();
-  double s = 0;
-  for(i = 0; i < N; i++) {
-    s += c[i];
-  }
+    printf("Execution time (arithmetic): %11.8f cycles (%.2f)\n", ticks / (double)REPEAT, s);
+    printf("Execution time (harmonic): %11.8f cycles (%.2f)\n", REPEAT / tempSum, s);
 
-  printf("Execution time (arithmetic): %11.8f cycles (%.2f)\n", ticks / (double)REPEAT, s);
-  printf("Execution time (harmonic): %11.8f cycles (%.2f)\n", REPEAT / tempSum, s);
+  }
   return 0;
 }
 

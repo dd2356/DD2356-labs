@@ -1,0 +1,1773 @@
+Execution time (arithmetic): 6108.52200000 cycles (5733252.50)
+Execution time (harmonic): 6140.16309204 cycles (5733252.50)
+Application 19462790 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6209.51900000 cycles (5733252.50)
+Execution time (harmonic): 6325.07647690 cycles (5733252.50)
+Application 19462791 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6007.70000000 cycles (5733252.50)
+Execution time (harmonic): 6113.02336823 cycles (5733252.50)
+Application 19462792 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6062.78500000 cycles (5733252.50)
+Execution time (harmonic): 6113.35240694 cycles (5733252.50)
+Application 19462794 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6113.22000000 cycles (5733252.50)
+Execution time (harmonic): 6195.46228727 cycles (5733252.50)
+Application 19462800 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6596.94200000 cycles (5733252.50)
+Execution time (harmonic): 6617.42277621 cycles (5733252.50)
+Application 19462803 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6044.15300000 cycles (5733252.50)
+Execution time (harmonic): 6151.72048354 cycles (5733252.50)
+Application 19462807 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6129.71300000 cycles (5733252.50)
+Execution time (harmonic): 6192.63482060 cycles (5733252.50)
+Application 19462810 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6150.01600000 cycles (5733252.50)
+Execution time (harmonic): 6325.90792761 cycles (5733252.50)
+Application 19462812 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6169.10200000 cycles (5733252.50)
+Execution time (harmonic): 6213.83119087 cycles (5733252.50)
+Application 19462813 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6031.48000000 cycles (5733252.50)
+Execution time (harmonic): 6181.78747392 cycles (5733252.50)
+Application 19462814 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.29700000 cycles (5733252.50)
+Execution time (harmonic): 6144.28227171 cycles (5733252.50)
+Application 19462815 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6160.71500000 cycles (5733252.50)
+Execution time (harmonic): 6264.63356854 cycles (5733252.50)
+Application 19462816 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6011.49300000 cycles (5733252.50)
+Execution time (harmonic): 6125.20368377 cycles (5733252.50)
+Application 19462817 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6114.95200000 cycles (5733252.50)
+Execution time (harmonic): 6299.15268360 cycles (5733252.50)
+Application 19462818 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6070.73500000 cycles (5733252.50)
+Execution time (harmonic): 6149.58478755 cycles (5733252.50)
+Application 19462819 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6182.91400000 cycles (5733252.50)
+Execution time (harmonic): 6142.68615610 cycles (5733252.50)
+Application 19462820 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6168.85500000 cycles (5733252.50)
+Execution time (harmonic): 6232.99060097 cycles (5733252.50)
+Application 19462821 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6095.32600000 cycles (5733252.50)
+Execution time (harmonic): 6125.57868951 cycles (5733252.50)
+Application 19462822 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6018.43900000 cycles (5733252.50)
+Execution time (harmonic): 6143.84147992 cycles (5733252.50)
+Application 19462823 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6139.07200000 cycles (5733252.50)
+Execution time (harmonic): 6167.06859703 cycles (5733252.50)
+Application 19462825 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6085.94000000 cycles (5733252.50)
+Execution time (harmonic): 6189.87282378 cycles (5733252.50)
+Application 19462826 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6086.90000000 cycles (5733252.50)
+Execution time (harmonic): 6157.75241931 cycles (5733252.50)
+Application 19462827 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6128.74100000 cycles (5733252.50)
+Execution time (harmonic): 6185.00978404 cycles (5733252.50)
+Application 19462828 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6152.22200000 cycles (5733252.50)
+Execution time (harmonic): 6206.31541184 cycles (5733252.50)
+Application 19462830 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6067.67000000 cycles (5733252.50)
+Execution time (harmonic): 6165.75868039 cycles (5733252.50)
+Application 19462831 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6205.28700000 cycles (5733252.50)
+Execution time (harmonic): 6249.61359509 cycles (5733252.50)
+Application 19462832 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6703.49900000 cycles (5733252.50)
+Execution time (harmonic): 6707.05771582 cycles (5733252.50)
+Application 19462836 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6008.27700000 cycles (5733252.50)
+Execution time (harmonic): 6154.71930969 cycles (5733252.50)
+Application 19462838 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6301.83900000 cycles (5733252.50)
+Execution time (harmonic): 6206.96982997 cycles (5733252.50)
+Application 19462841 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6070.40400000 cycles (5733252.50)
+Execution time (harmonic): 6161.05324009 cycles (5733252.50)
+Application 19462842 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6020.43000000 cycles (5733252.50)
+Execution time (harmonic): 6091.55862501 cycles (5733252.50)
+Application 19462843 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6090.67200000 cycles (5733252.50)
+Execution time (harmonic): 6199.36203050 cycles (5733252.50)
+Application 19462844 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6184.59300000 cycles (5733252.50)
+Execution time (harmonic): 6226.73223204 cycles (5733252.50)
+Application 19462845 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6086.87500000 cycles (5733252.50)
+Execution time (harmonic): 6149.28481949 cycles (5733252.50)
+Application 19462846 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6071.09700000 cycles (5733252.50)
+Execution time (harmonic): 6130.90636579 cycles (5733252.50)
+Application 19462847 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6085.80400000 cycles (5733252.50)
+Execution time (harmonic): 6158.14949581 cycles (5733252.50)
+Application 19462849 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.92800000 cycles (5733252.50)
+Execution time (harmonic): 6231.43753972 cycles (5733252.50)
+Application 19462851 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6583.48900000 cycles (5733252.50)
+Execution time (harmonic): 6658.33344198 cycles (5733252.50)
+Application 19462852 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6120.13100000 cycles (5733252.50)
+Execution time (harmonic): 6221.58086840 cycles (5733252.50)
+Application 19462853 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.03700000 cycles (5733252.50)
+Execution time (harmonic): 6172.12238446 cycles (5733252.50)
+Application 19462854 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.27000000 cycles (5733252.50)
+Execution time (harmonic): 6254.68299738 cycles (5733252.50)
+Application 19462857 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5999.40200000 cycles (5733252.50)
+Execution time (harmonic): 6135.79668829 cycles (5733252.50)
+Application 19462858 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.61100000 cycles (5733252.50)
+Execution time (harmonic): 6208.85270627 cycles (5733252.50)
+Application 19462861 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.49400000 cycles (5733252.50)
+Execution time (harmonic): 6178.13051892 cycles (5733252.50)
+Application 19462862 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6068.06300000 cycles (5733252.50)
+Execution time (harmonic): 6118.77973731 cycles (5733252.50)
+Application 19462864 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6026.19600000 cycles (5733252.50)
+Execution time (harmonic): 6198.67822752 cycles (5733252.50)
+Application 19462865 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6638.55100000 cycles (5733252.50)
+Execution time (harmonic): 6784.48644417 cycles (5733252.50)
+Application 19462866 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6009.63000000 cycles (5733252.50)
+Execution time (harmonic): 6079.33812013 cycles (5733252.50)
+Application 19462867 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6128.14100000 cycles (5733252.50)
+Execution time (harmonic): 6169.54079700 cycles (5733252.50)
+Application 19462868 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6123.28400000 cycles (5733252.50)
+Execution time (harmonic): 6228.83029682 cycles (5733252.50)
+Application 19462869 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6014.31400000 cycles (5733252.50)
+Execution time (harmonic): 6095.18615067 cycles (5733252.50)
+Application 19462870 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.13100000 cycles (5733252.50)
+Execution time (harmonic): 6148.46246601 cycles (5733252.50)
+Application 19462871 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6134.19600000 cycles (5733252.50)
+Execution time (harmonic): 6230.85711196 cycles (5733252.50)
+Application 19462872 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6190.30600000 cycles (5733252.50)
+Execution time (harmonic): 6205.62981688 cycles (5733252.50)
+Application 19462873 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6095.46200000 cycles (5733252.50)
+Execution time (harmonic): 6231.71800994 cycles (5733252.50)
+Application 19462874 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6080.70900000 cycles (5733252.50)
+Execution time (harmonic): 6163.89588619 cycles (5733252.50)
+Application 19462875 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6055.93800000 cycles (5733252.50)
+Execution time (harmonic): 6144.66284501 cycles (5733252.50)
+Application 19462876 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6586.20100000 cycles (5733252.50)
+Execution time (harmonic): 6608.07762435 cycles (5733252.50)
+Application 19462877 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6054.89000000 cycles (5733252.50)
+Execution time (harmonic): 6130.50272173 cycles (5733252.50)
+Application 19462878 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6161.88000000 cycles (5733252.50)
+Execution time (harmonic): 6253.58802218 cycles (5733252.50)
+Application 19462879 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6639.04800000 cycles (5733252.50)
+Execution time (harmonic): 6650.03786739 cycles (5733252.50)
+Application 19462880 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6093.11000000 cycles (5733252.50)
+Execution time (harmonic): 6172.33797701 cycles (5733252.50)
+Application 19462881 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.91400000 cycles (5733252.50)
+Execution time (harmonic): 6309.99713557 cycles (5733252.50)
+Application 19462882 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6643.41800000 cycles (5733252.50)
+Execution time (harmonic): 6615.04397987 cycles (5733252.50)
+Application 19462883 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6046.82600000 cycles (5733252.50)
+Execution time (harmonic): 6093.08011451 cycles (5733252.50)
+Application 19462884 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6100.59100000 cycles (5733252.50)
+Execution time (harmonic): 6149.69491166 cycles (5733252.50)
+Application 19462885 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6054.45300000 cycles (5733252.50)
+Execution time (harmonic): 6303.25485054 cycles (5733252.50)
+Application 19462886 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6107.32800000 cycles (5733252.50)
+Execution time (harmonic): 6165.32352373 cycles (5733252.50)
+Application 19462887 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6228.10100000 cycles (5733252.50)
+Execution time (harmonic): 6301.76522504 cycles (5733252.50)
+Application 19462888 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6111.97200000 cycles (5733252.50)
+Execution time (harmonic): 6162.98558304 cycles (5733252.50)
+Application 19462893 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6226.84000000 cycles (5733252.50)
+Execution time (harmonic): 6256.65788963 cycles (5733252.50)
+Application 19462897 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6103.38900000 cycles (5733252.50)
+Execution time (harmonic): 6143.39023399 cycles (5733252.50)
+Application 19462900 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6121.09000000 cycles (5733252.50)
+Execution time (harmonic): 6184.08166743 cycles (5733252.50)
+Application 19462906 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6075.38900000 cycles (5733252.50)
+Execution time (harmonic): 6275.84464751 cycles (5733252.50)
+Application 19462907 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6060.29700000 cycles (5733252.50)
+Execution time (harmonic): 6181.65134450 cycles (5733252.50)
+Application 19462908 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6101.18100000 cycles (5733252.50)
+Execution time (harmonic): 6149.96042326 cycles (5733252.50)
+Application 19462909 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.13100000 cycles (5733252.50)
+Execution time (harmonic): 6188.29377161 cycles (5733252.50)
+Application 19462910 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6154.10800000 cycles (5733252.50)
+Execution time (harmonic): 6198.17988863 cycles (5733252.50)
+Application 19462911 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.03500000 cycles (5733252.50)
+Execution time (harmonic): 6169.89750901 cycles (5733252.50)
+Application 19462913 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6154.70200000 cycles (5733252.50)
+Execution time (harmonic): 6196.38201631 cycles (5733252.50)
+Application 19462915 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6022.07900000 cycles (5733252.50)
+Execution time (harmonic): 6106.38850111 cycles (5733252.50)
+Application 19462916 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.84000000 cycles (5733252.50)
+Execution time (harmonic): 6149.79919510 cycles (5733252.50)
+Application 19462917 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6127.14400000 cycles (5733252.50)
+Execution time (harmonic): 6275.49827851 cycles (5733252.50)
+Application 19462918 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6052.25400000 cycles (5733252.50)
+Execution time (harmonic): 6183.18262518 cycles (5733252.50)
+Application 19462919 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.69200000 cycles (5733252.50)
+Execution time (harmonic): 6183.83418740 cycles (5733252.50)
+Application 19462920 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6037.93900000 cycles (5733252.50)
+Execution time (harmonic): 6117.31800079 cycles (5733252.50)
+Application 19462921 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6696.07800000 cycles (5733252.50)
+Execution time (harmonic): 6677.36264025 cycles (5733252.50)
+Application 19462922 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5988.46200000 cycles (5733252.50)
+Execution time (harmonic): 6117.13434724 cycles (5733252.50)
+Application 19462923 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6083.57700000 cycles (5733252.50)
+Execution time (harmonic): 6257.32706791 cycles (5733252.50)
+Application 19462924 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6084.35500000 cycles (5733252.50)
+Execution time (harmonic): 6113.76058480 cycles (5733252.50)
+Application 19462937 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6102.77400000 cycles (5733252.50)
+Execution time (harmonic): 6180.19480261 cycles (5733252.50)
+Application 19462938 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6040.98100000 cycles (5733252.50)
+Execution time (harmonic): 6119.34988799 cycles (5733252.50)
+Application 19462939 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6064.04000000 cycles (5733252.50)
+Execution time (harmonic): 6126.82033619 cycles (5733252.50)
+Application 19462940 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6155.65700000 cycles (5733252.50)
+Execution time (harmonic): 6220.80176828 cycles (5733252.50)
+Application 19462941 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6649.23300000 cycles (5733252.50)
+Execution time (harmonic): 6711.58746303 cycles (5733252.50)
+Application 19462942 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6001.04500000 cycles (5733252.50)
+Execution time (harmonic): 6159.94811485 cycles (5733252.50)
+Application 19462943 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6086.99000000 cycles (5733252.50)
+Execution time (harmonic): 6164.80005553 cycles (5733252.50)
+Application 19462944 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6191.16500000 cycles (5733252.50)
+Execution time (harmonic): 6273.67492531 cycles (5733252.50)
+Application 19462945 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5991.66100000 cycles (5733252.50)
+Execution time (harmonic): 6162.26453216 cycles (5733252.50)
+Application 19462946 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6008.22900000 cycles (5733252.50)
+Execution time (harmonic): 6169.52396416 cycles (5733252.50)
+Application 19462947 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6063.24400000 cycles (5733252.50)
+Execution time (harmonic): 6159.27167495 cycles (5733252.50)
+Application 19462948 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6025.02100000 cycles (5733252.50)
+Execution time (harmonic): 6403.96551672 cycles (5733252.50)
+Application 19462949 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5990.32700000 cycles (5733252.50)
+Execution time (harmonic): 6094.61882975 cycles (5733252.50)
+Application 19462951 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6038.62500000 cycles (5733252.50)
+Execution time (harmonic): 6112.84044711 cycles (5733252.50)
+Application 19462952 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6213.56900000 cycles (5733252.50)
+Execution time (harmonic): 6331.91852289 cycles (5733252.50)
+Application 19462953 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6060.20100000 cycles (5733252.50)
+Execution time (harmonic): 6302.94413756 cycles (5733252.50)
+Application 19462954 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6155.49000000 cycles (5733252.50)
+Execution time (harmonic): 6205.41624506 cycles (5733252.50)
+Application 19462955 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.89600000 cycles (5733252.50)
+Execution time (harmonic): 6196.29522129 cycles (5733252.50)
+Application 19462956 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6127.40100000 cycles (5733252.50)
+Execution time (harmonic): 6166.44268585 cycles (5733252.50)
+Application 19462957 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.14100000 cycles (5733252.50)
+Execution time (harmonic): 6165.91671690 cycles (5733252.50)
+Application 19462959 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6573.36200000 cycles (5733252.50)
+Execution time (harmonic): 6786.04499158 cycles (5733252.50)
+Application 19462960 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6026.40600000 cycles (5733252.50)
+Execution time (harmonic): 6116.47513290 cycles (5733252.50)
+Application 19462961 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6238.34600000 cycles (5733252.50)
+Execution time (harmonic): 6298.50374267 cycles (5733252.50)
+Application 19462964 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6223.45500000 cycles (5733252.50)
+Execution time (harmonic): 6432.40939956 cycles (5733252.50)
+Application 19462965 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6044.07600000 cycles (5733252.50)
+Execution time (harmonic): 6115.13286186 cycles (5733252.50)
+Application 19462966 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6677.54200000 cycles (5733252.50)
+Execution time (harmonic): 6802.97519076 cycles (5733252.50)
+Application 19462967 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6158.48200000 cycles (5733252.50)
+Execution time (harmonic): 6215.93847375 cycles (5733252.50)
+Application 19462968 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6019.33000000 cycles (5733252.50)
+Execution time (harmonic): 6122.81016377 cycles (5733252.50)
+Application 19462969 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6286.51700000 cycles (5733252.50)
+Execution time (harmonic): 6312.01420450 cycles (5733252.50)
+Application 19462970 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.96300000 cycles (5733252.50)
+Execution time (harmonic): 6190.79233520 cycles (5733252.50)
+Application 19462971 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6101.20400000 cycles (5733252.50)
+Execution time (harmonic): 6202.53951828 cycles (5733252.50)
+Application 19462972 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6005.54300000 cycles (5733252.50)
+Execution time (harmonic): 6131.45189686 cycles (5733252.50)
+Application 19462973 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6208.10800000 cycles (5733252.50)
+Execution time (harmonic): 6267.42765103 cycles (5733252.50)
+Application 19462974 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6116.30600000 cycles (5733252.50)
+Execution time (harmonic): 6186.56238827 cycles (5733252.50)
+Application 19462975 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6572.85200000 cycles (5733252.50)
+Execution time (harmonic): 6160.95896787 cycles (5733252.50)
+Application 19462976 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6187.86400000 cycles (5733252.50)
+Execution time (harmonic): 6220.25278457 cycles (5733252.50)
+Application 19462977 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6141.94900000 cycles (5733252.50)
+Execution time (harmonic): 6162.52752749 cycles (5733252.50)
+Application 19462978 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6041.02100000 cycles (5733252.50)
+Execution time (harmonic): 6078.98758941 cycles (5733252.50)
+Application 19462980 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6149.45800000 cycles (5733252.50)
+Execution time (harmonic): 6185.56665797 cycles (5733252.50)
+Application 19462981 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6557.26200000 cycles (5733252.50)
+Execution time (harmonic): 6538.32316186 cycles (5733252.50)
+Application 19462982 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6198.29300000 cycles (5733252.50)
+Execution time (harmonic): 6251.44257384 cycles (5733252.50)
+Application 19462983 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6679.62700000 cycles (5733252.50)
+Execution time (harmonic): 6710.00116186 cycles (5733252.50)
+Application 19462984 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6029.63200000 cycles (5733252.50)
+Execution time (harmonic): 6113.36758422 cycles (5733252.50)
+Application 19462985 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6109.64200000 cycles (5733252.50)
+Execution time (harmonic): 6232.14967274 cycles (5733252.50)
+Application 19462986 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6083.55200000 cycles (5733252.50)
+Execution time (harmonic): 6184.59598039 cycles (5733252.50)
+Application 19462987 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6109.23900000 cycles (5733252.50)
+Execution time (harmonic): 6124.24172374 cycles (5733252.50)
+Application 19462988 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6006.98700000 cycles (5733252.50)
+Execution time (harmonic): 6083.47815038 cycles (5733252.50)
+Application 19462989 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6172.01400000 cycles (5733252.50)
+Execution time (harmonic): 6208.77389549 cycles (5733252.50)
+Application 19462990 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6000.12700000 cycles (5733252.50)
+Execution time (harmonic): 6083.95994109 cycles (5733252.50)
+Application 19462991 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6137.13000000 cycles (5733252.50)
+Execution time (harmonic): 6241.61673064 cycles (5733252.50)
+Application 19462993 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6762.85500000 cycles (5733252.50)
+Execution time (harmonic): 6746.74573976 cycles (5733252.50)
+Application 19462995 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6029.13900000 cycles (5733252.50)
+Execution time (harmonic): 6166.88836525 cycles (5733252.50)
+Application 19462996 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6163.43100000 cycles (5733252.50)
+Execution time (harmonic): 6192.80987622 cycles (5733252.50)
+Application 19462997 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6117.18700000 cycles (5733252.50)
+Execution time (harmonic): 6163.48298145 cycles (5733252.50)
+Application 19462998 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6020.99000000 cycles (5733252.50)
+Execution time (harmonic): 6086.13199220 cycles (5733252.50)
+Application 19462999 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6109.60900000 cycles (5733252.50)
+Execution time (harmonic): 6176.30235491 cycles (5733252.50)
+Application 19463002 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.09100000 cycles (5733252.50)
+Execution time (harmonic): 6114.40299430 cycles (5733252.50)
+Application 19463003 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6112.67400000 cycles (5733252.50)
+Execution time (harmonic): 6170.62015062 cycles (5733252.50)
+Application 19463004 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6063.31900000 cycles (5733252.50)
+Execution time (harmonic): 6149.78549433 cycles (5733252.50)
+Application 19463005 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6030.88900000 cycles (5733252.50)
+Execution time (harmonic): 6124.33260800 cycles (5733252.50)
+Application 19463006 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6156.99800000 cycles (5733252.50)
+Execution time (harmonic): 6133.73472600 cycles (5733252.50)
+Application 19463007 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6042.19600000 cycles (5733252.50)
+Execution time (harmonic): 6142.99935341 cycles (5733252.50)
+Application 19463008 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6133.70500000 cycles (5733252.50)
+Execution time (harmonic): 6197.43695541 cycles (5733252.50)
+Application 19463009 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6126.67100000 cycles (5733252.50)
+Execution time (harmonic): 6248.12159105 cycles (5733252.50)
+Application 19463010 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6069.27300000 cycles (5733252.50)
+Execution time (harmonic): 6254.98552711 cycles (5733252.50)
+Application 19463011 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6074.27700000 cycles (5733252.50)
+Execution time (harmonic): 6142.82708929 cycles (5733252.50)
+Application 19463012 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6121.97000000 cycles (5733252.50)
+Execution time (harmonic): 6328.09651121 cycles (5733252.50)
+Application 19463013 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6101.57200000 cycles (5733252.50)
+Execution time (harmonic): 6213.94167270 cycles (5733252.50)
+Application 19463014 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.63900000 cycles (5733252.50)
+Execution time (harmonic): 6181.50546174 cycles (5733252.50)
+Application 19463015 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6104.50300000 cycles (5733252.50)
+Execution time (harmonic): 6186.45083871 cycles (5733252.50)
+Application 19463016 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6654.88500000 cycles (5733252.50)
+Execution time (harmonic): 6659.93559550 cycles (5733252.50)
+Application 19463017 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6013.91700000 cycles (5733252.50)
+Execution time (harmonic): 6117.30787179 cycles (5733252.50)
+Application 19463018 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6628.86200000 cycles (5733252.50)
+Execution time (harmonic): 6633.49181109 cycles (5733252.50)
+Application 19463019 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6090.41900000 cycles (5733252.50)
+Execution time (harmonic): 6166.84148889 cycles (5733252.50)
+Application 19463020 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.05900000 cycles (5733252.50)
+Execution time (harmonic): 6197.26106687 cycles (5733252.50)
+Application 19463021 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6151.84600000 cycles (5733252.50)
+Execution time (harmonic): 6181.25163276 cycles (5733252.50)
+Application 19463022 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6045.06700000 cycles (5733252.50)
+Execution time (harmonic): 6173.90507475 cycles (5733252.50)
+Application 19463023 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6111.55400000 cycles (5733252.50)
+Execution time (harmonic): 6145.34728354 cycles (5733252.50)
+Application 19463024 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6289.03900000 cycles (5733252.50)
+Execution time (harmonic): 6252.27369448 cycles (5733252.50)
+Application 19463026 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6564.82500000 cycles (5733252.50)
+Execution time (harmonic): 6593.39927496 cycles (5733252.50)
+Application 19463029 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5992.60000000 cycles (5733252.50)
+Execution time (harmonic): 6124.51148474 cycles (5733252.50)
+Application 19463031 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6072.43500000 cycles (5733252.50)
+Execution time (harmonic): 6214.08322491 cycles (5733252.50)
+Application 19463032 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5993.56400000 cycles (5733252.50)
+Execution time (harmonic): 6165.80732533 cycles (5733252.50)
+Application 19463034 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6146.78600000 cycles (5733252.50)
+Execution time (harmonic): 6181.47356979 cycles (5733252.50)
+Application 19463035 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6022.53100000 cycles (5733252.50)
+Execution time (harmonic): 6129.10539901 cycles (5733252.50)
+Application 19463036 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6104.13300000 cycles (5733252.50)
+Execution time (harmonic): 6159.73571476 cycles (5733252.50)
+Application 19463037 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6061.72900000 cycles (5733252.50)
+Execution time (harmonic): 6252.63914287 cycles (5733252.50)
+Application 19463038 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6015.81500000 cycles (5733252.50)
+Execution time (harmonic): 6121.62128549 cycles (5733252.50)
+Application 19463040 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6075.44800000 cycles (5733252.50)
+Execution time (harmonic): 6129.09349165 cycles (5733252.50)
+Application 19463041 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6063.87900000 cycles (5733252.50)
+Execution time (harmonic): 6104.92071513 cycles (5733252.50)
+Application 19463043 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6202.74000000 cycles (5733252.50)
+Execution time (harmonic): 6183.53156887 cycles (5733252.50)
+Application 19463044 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6081.88000000 cycles (5733252.50)
+Execution time (harmonic): 6132.61111699 cycles (5733252.50)
+Application 19463047 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6106.46000000 cycles (5733252.50)
+Execution time (harmonic): 6164.97332130 cycles (5733252.50)
+Application 19463048 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6027.05400000 cycles (5733252.50)
+Execution time (harmonic): 6173.28282626 cycles (5733252.50)
+Application 19463050 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6014.81400000 cycles (5733252.50)
+Execution time (harmonic): 6112.65503957 cycles (5733252.50)
+Application 19463051 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6081.42600000 cycles (5733252.50)
+Execution time (harmonic): 6165.74205601 cycles (5733252.50)
+Application 19463052 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5997.36500000 cycles (5733252.50)
+Execution time (harmonic): 6069.51329270 cycles (5733252.50)
+Application 19463053 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6053.73000000 cycles (5733252.50)
+Execution time (harmonic): 6125.58001458 cycles (5733252.50)
+Application 19463054 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6225.05200000 cycles (5733252.50)
+Execution time (harmonic): 6068.79163558 cycles (5733252.50)
+Application 19463055 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6060.93500000 cycles (5733252.50)
+Execution time (harmonic): 6259.22167668 cycles (5733252.50)
+Application 19463056 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6551.69700000 cycles (5733252.50)
+Execution time (harmonic): 6589.42766013 cycles (5733252.50)
+Application 19463057 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6665.55900000 cycles (5733252.50)
+Execution time (harmonic): 6673.26136756 cycles (5733252.50)
+Application 19463058 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6138.50600000 cycles (5733252.50)
+Execution time (harmonic): 6176.20354873 cycles (5733252.50)
+Application 19463059 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6089.12700000 cycles (5733252.50)
+Execution time (harmonic): 6217.75988155 cycles (5733252.50)
+Application 19463060 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.19600000 cycles (5733252.50)
+Execution time (harmonic): 6129.25025107 cycles (5733252.50)
+Application 19463061 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6130.77600000 cycles (5733252.50)
+Execution time (harmonic): 6220.97574080 cycles (5733252.50)
+Application 19463062 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6635.26800000 cycles (5733252.50)
+Execution time (harmonic): 6690.19034505 cycles (5733252.50)
+Application 19463064 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6119.59800000 cycles (5733252.50)
+Execution time (harmonic): 6157.23908323 cycles (5733252.50)
+Application 19463069 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6065.57100000 cycles (5733252.50)
+Execution time (harmonic): 6128.99579690 cycles (5733252.50)
+Application 19463075 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6163.79500000 cycles (5733252.50)
+Execution time (harmonic): 6120.38993751 cycles (5733252.50)
+Application 19463078 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6155.24100000 cycles (5733252.50)
+Execution time (harmonic): 6324.44140596 cycles (5733252.50)
+Application 19463079 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6146.98400000 cycles (5733252.50)
+Execution time (harmonic): 6151.23294015 cycles (5733252.50)
+Application 19463080 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6780.18900000 cycles (5733252.50)
+Execution time (harmonic): 6751.76825582 cycles (5733252.50)
+Application 19463081 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6065.18600000 cycles (5733252.50)
+Execution time (harmonic): 6135.86904878 cycles (5733252.50)
+Application 19463082 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6045.87400000 cycles (5733252.50)
+Execution time (harmonic): 6163.85839678 cycles (5733252.50)
+Application 19463083 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6067.12800000 cycles (5733252.50)
+Execution time (harmonic): 6305.87916445 cycles (5733252.50)
+Application 19463084 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6089.02400000 cycles (5733252.50)
+Execution time (harmonic): 6310.21366479 cycles (5733252.50)
+Application 19463085 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6091.09800000 cycles (5733252.50)
+Execution time (harmonic): 6195.95230429 cycles (5733252.50)
+Application 19463086 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6139.69500000 cycles (5733252.50)
+Execution time (harmonic): 6161.49524352 cycles (5733252.50)
+Application 19463087 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6037.99100000 cycles (5733252.50)
+Execution time (harmonic): 6191.91103929 cycles (5733252.50)
+Application 19463089 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6234.28200000 cycles (5733252.50)
+Execution time (harmonic): 6351.07038911 cycles (5733252.50)
+Application 19463090 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6175.46000000 cycles (5733252.50)
+Execution time (harmonic): 6226.15627385 cycles (5733252.50)
+Application 19463092 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6176.72800000 cycles (5733252.50)
+Execution time (harmonic): 6287.97150419 cycles (5733252.50)
+Application 19463095 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5992.04300000 cycles (5733252.50)
+Execution time (harmonic): 6133.76696883 cycles (5733252.50)
+Application 19463099 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6759.03500000 cycles (5733252.50)
+Execution time (harmonic): 6726.85061901 cycles (5733252.50)
+Application 19463100 resources: utime ~0s, stime ~0s, Rss ~5192, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6070.56100000 cycles (5733252.50)
+Execution time (harmonic): 6192.22470613 cycles (5733252.50)
+Application 19463103 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6143.90000000 cycles (5733252.50)
+Execution time (harmonic): 6165.65829861 cycles (5733252.50)
+Application 19463104 resources: utime ~0s, stime ~0s, Rss ~5168, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6176.46600000 cycles (5733252.50)
+Execution time (harmonic): 6247.93474424 cycles (5733252.50)
+Application 19463105 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6000.21900000 cycles (5733252.50)
+Execution time (harmonic): 6129.65898759 cycles (5733252.50)
+Application 19463107 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6016.08500000 cycles (5733252.50)
+Execution time (harmonic): 6087.86927383 cycles (5733252.50)
+Application 19463108 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.66200000 cycles (5733252.50)
+Execution time (harmonic): 6193.52447305 cycles (5733252.50)
+Application 19463109 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6046.96500000 cycles (5733252.50)
+Execution time (harmonic): 6207.35098954 cycles (5733252.50)
+Application 19463110 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6007.83200000 cycles (5733252.50)
+Execution time (harmonic): 6094.90825083 cycles (5733252.50)
+Application 19463111 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6608.42100000 cycles (5733252.50)
+Execution time (harmonic): 6666.68009385 cycles (5733252.50)
+Application 19463112 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6132.53000000 cycles (5733252.50)
+Execution time (harmonic): 6269.48816426 cycles (5733252.50)
+Application 19463113 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6096.51800000 cycles (5733252.50)
+Execution time (harmonic): 6254.68488929 cycles (5733252.50)
+Application 19463114 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6096.54500000 cycles (5733252.50)
+Execution time (harmonic): 6209.92176731 cycles (5733252.50)
+Application 19463115 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6380.83800000 cycles (5733252.50)
+Execution time (harmonic): 6143.48981693 cycles (5733252.50)
+Application 19463116 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6055.93700000 cycles (5733252.50)
+Execution time (harmonic): 6133.02356630 cycles (5733252.50)
+Application 19463117 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6003.75500000 cycles (5733252.50)
+Execution time (harmonic): 6204.00855279 cycles (5733252.50)
+Application 19463118 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5996.50800000 cycles (5733252.50)
+Execution time (harmonic): 6110.40688539 cycles (5733252.50)
+Application 19463121 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5999.41000000 cycles (5733252.50)
+Execution time (harmonic): 6154.89275072 cycles (5733252.50)
+Application 19463122 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6006.78500000 cycles (5733252.50)
+Execution time (harmonic): 6110.13325974 cycles (5733252.50)
+Application 19463123 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6076.77800000 cycles (5733252.50)
+Execution time (harmonic): 6126.60351252 cycles (5733252.50)
+Application 19463124 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6037.78000000 cycles (5733252.50)
+Execution time (harmonic): 6172.88906818 cycles (5733252.50)
+Application 19463126 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5999.69800000 cycles (5733252.50)
+Execution time (harmonic): 6132.71286818 cycles (5733252.50)
+Application 19463127 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6078.80800000 cycles (5733252.50)
+Execution time (harmonic): 6118.48773154 cycles (5733252.50)
+Application 19463128 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.04700000 cycles (5733252.50)
+Execution time (harmonic): 6107.18066475 cycles (5733252.50)
+Application 19463129 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5991.92100000 cycles (5733252.50)
+Execution time (harmonic): 6102.15225241 cycles (5733252.50)
+Application 19463131 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6112.16900000 cycles (5733252.50)
+Execution time (harmonic): 6193.93163930 cycles (5733252.50)
+Application 19463132 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6016.98000000 cycles (5733252.50)
+Execution time (harmonic): 6151.95233187 cycles (5733252.50)
+Application 19463135 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6159.83900000 cycles (5733252.50)
+Execution time (harmonic): 6186.57783483 cycles (5733252.50)
+Application 19463141 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6172.37800000 cycles (5733252.50)
+Execution time (harmonic): 6264.83393285 cycles (5733252.50)
+Application 19463149 resources: utime ~0s, stime ~0s, Rss ~5196, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6009.30200000 cycles (5733252.50)
+Execution time (harmonic): 6218.15026310 cycles (5733252.50)
+Application 19463154 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6149.16500000 cycles (5733252.50)
+Execution time (harmonic): 6157.78729238 cycles (5733252.50)
+Application 19463159 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6149.30700000 cycles (5733252.50)
+Execution time (harmonic): 6219.31758116 cycles (5733252.50)
+Application 19463160 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6054.47200000 cycles (5733252.50)
+Execution time (harmonic): 6329.06994291 cycles (5733252.50)
+Application 19463162 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6105.03200000 cycles (5733252.50)
+Execution time (harmonic): 6122.30400242 cycles (5733252.50)
+Application 19463170 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6128.45200000 cycles (5733252.50)
+Execution time (harmonic): 6159.67866885 cycles (5733252.50)
+Application 19463171 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6060.57700000 cycles (5733252.50)
+Execution time (harmonic): 6161.42930739 cycles (5733252.50)
+Application 19463172 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6036.25600000 cycles (5733252.50)
+Execution time (harmonic): 6133.99748286 cycles (5733252.50)
+Application 19463173 resources: utime ~0s, stime ~0s, Rss ~5168, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6179.11500000 cycles (5733252.50)
+Execution time (harmonic): 6244.42569815 cycles (5733252.50)
+Application 19463174 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6046.85200000 cycles (5733252.50)
+Execution time (harmonic): 6149.01083596 cycles (5733252.50)
+Application 19463175 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.08800000 cycles (5733252.50)
+Execution time (harmonic): 6257.75327130 cycles (5733252.50)
+Application 19463176 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6092.30900000 cycles (5733252.50)
+Execution time (harmonic): 6161.08043956 cycles (5733252.50)
+Application 19463177 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6102.53500000 cycles (5733252.50)
+Execution time (harmonic): 6173.63679708 cycles (5733252.50)
+Application 19463178 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6067.74100000 cycles (5733252.50)
+Execution time (harmonic): 6253.14826391 cycles (5733252.50)
+Application 19463181 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6089.44400000 cycles (5733252.50)
+Execution time (harmonic): 6162.72964432 cycles (5733252.50)
+Application 19463184 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6031.33600000 cycles (5733252.50)
+Execution time (harmonic): 6179.03184595 cycles (5733252.50)
+Application 19463185 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6005.62600000 cycles (5733252.50)
+Execution time (harmonic): 6096.49773773 cycles (5733252.50)
+Application 19463186 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6609.36600000 cycles (5733252.50)
+Execution time (harmonic): 6657.67482373 cycles (5733252.50)
+Application 19463187 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6124.44000000 cycles (5733252.50)
+Execution time (harmonic): 6321.78876991 cycles (5733252.50)
+Application 19463188 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6035.75400000 cycles (5733252.50)
+Execution time (harmonic): 6179.79666990 cycles (5733252.50)
+Application 19463189 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6123.40700000 cycles (5733252.50)
+Execution time (harmonic): 6200.94321272 cycles (5733252.50)
+Application 19463190 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6078.72000000 cycles (5733252.50)
+Execution time (harmonic): 6200.63889746 cycles (5733252.50)
+Application 19463191 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6164.04600000 cycles (5733252.50)
+Execution time (harmonic): 6213.42961689 cycles (5733252.50)
+Application 19463193 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6192.94400000 cycles (5733252.50)
+Execution time (harmonic): 6265.34569679 cycles (5733252.50)
+Application 19463194 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6220.26600000 cycles (5733252.50)
+Execution time (harmonic): 6368.27950491 cycles (5733252.50)
+Application 19463197 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.69900000 cycles (5733252.50)
+Execution time (harmonic): 6129.72374142 cycles (5733252.50)
+Application 19463198 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6136.50600000 cycles (5733252.50)
+Execution time (harmonic): 6343.51926976 cycles (5733252.50)
+Application 19463202 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6693.94900000 cycles (5733252.50)
+Execution time (harmonic): 6701.53485611 cycles (5733252.50)
+Application 19463208 resources: utime ~0s, stime ~0s, Rss ~5204, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6064.97100000 cycles (5733252.50)
+Execution time (harmonic): 6232.57810207 cycles (5733252.50)
+Application 19463212 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6092.61200000 cycles (5733252.50)
+Execution time (harmonic): 6129.60135144 cycles (5733252.50)
+Application 19463218 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6201.42100000 cycles (5733252.50)
+Execution time (harmonic): 6213.16599534 cycles (5733252.50)
+Application 19463219 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6057.27600000 cycles (5733252.50)
+Execution time (harmonic): 6138.70014035 cycles (5733252.50)
+Application 19463222 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6179.99500000 cycles (5733252.50)
+Execution time (harmonic): 6173.03506017 cycles (5733252.50)
+Application 19463226 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6667.66700000 cycles (5733252.50)
+Execution time (harmonic): 6762.22395005 cycles (5733252.50)
+Application 19463229 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6151.08900000 cycles (5733252.50)
+Execution time (harmonic): 6196.09178829 cycles (5733252.50)
+Application 19463230 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6147.76400000 cycles (5733252.50)
+Execution time (harmonic): 6177.24905335 cycles (5733252.50)
+Application 19463231 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6079.79900000 cycles (5733252.50)
+Execution time (harmonic): 6143.98342635 cycles (5733252.50)
+Application 19463232 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6160.80700000 cycles (5733252.50)
+Execution time (harmonic): 6208.55689105 cycles (5733252.50)
+Application 19463233 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6733.63900000 cycles (5733252.50)
+Execution time (harmonic): 6670.01888299 cycles (5733252.50)
+Application 19463234 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6078.80400000 cycles (5733252.50)
+Execution time (harmonic): 6101.50004793 cycles (5733252.50)
+Application 19463235 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6147.55700000 cycles (5733252.50)
+Execution time (harmonic): 6202.35349524 cycles (5733252.50)
+Application 19463236 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6141.56000000 cycles (5733252.50)
+Execution time (harmonic): 6186.62084510 cycles (5733252.50)
+Application 19463237 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6033.97900000 cycles (5733252.50)
+Execution time (harmonic): 6124.22165255 cycles (5733252.50)
+Application 19463238 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6192.45300000 cycles (5733252.50)
+Execution time (harmonic): 6261.42805756 cycles (5733252.50)
+Application 19463239 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6162.27300000 cycles (5733252.50)
+Execution time (harmonic): 6167.92761373 cycles (5733252.50)
+Application 19463240 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6119.51600000 cycles (5733252.50)
+Execution time (harmonic): 6146.50779033 cycles (5733252.50)
+Application 19463241 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6059.70500000 cycles (5733252.50)
+Execution time (harmonic): 6129.12588620 cycles (5733252.50)
+Application 19463242 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6023.61000000 cycles (5733252.50)
+Execution time (harmonic): 6103.69647801 cycles (5733252.50)
+Application 19463243 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6066.60600000 cycles (5733252.50)
+Execution time (harmonic): 6162.02013795 cycles (5733252.50)
+Application 19463244 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.37900000 cycles (5733252.50)
+Execution time (harmonic): 6311.62425347 cycles (5733252.50)
+Application 19463246 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.16600000 cycles (5733252.50)
+Execution time (harmonic): 6096.61096179 cycles (5733252.50)
+Application 19463247 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6170.46900000 cycles (5733252.50)
+Execution time (harmonic): 6189.01438781 cycles (5733252.50)
+Application 19463248 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6024.31500000 cycles (5733252.50)
+Execution time (harmonic): 6197.86320796 cycles (5733252.50)
+Application 19463249 resources: utime ~0s, stime ~0s, Rss ~5208, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.76600000 cycles (5733252.50)
+Execution time (harmonic): 6192.48255082 cycles (5733252.50)
+Application 19463250 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6029.18200000 cycles (5733252.50)
+Execution time (harmonic): 6099.95303284 cycles (5733252.50)
+Application 19463251 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6263.79900000 cycles (5733252.50)
+Execution time (harmonic): 6232.19416271 cycles (5733252.50)
+Application 19463252 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6023.82300000 cycles (5733252.50)
+Execution time (harmonic): 6157.89975017 cycles (5733252.50)
+Application 19463253 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6064.24700000 cycles (5733252.50)
+Execution time (harmonic): 6159.36447375 cycles (5733252.50)
+Application 19463254 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6646.98700000 cycles (5733252.50)
+Execution time (harmonic): 6702.58134216 cycles (5733252.50)
+Application 19463255 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6039.14300000 cycles (5733252.50)
+Execution time (harmonic): 6137.40601480 cycles (5733252.50)
+Application 19463256 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6042.73600000 cycles (5733252.50)
+Execution time (harmonic): 6124.27020945 cycles (5733252.50)
+Application 19463258 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6074.84200000 cycles (5733252.50)
+Execution time (harmonic): 6192.25847655 cycles (5733252.50)
+Application 19463259 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6065.33800000 cycles (5733252.50)
+Execution time (harmonic): 6203.03105405 cycles (5733252.50)
+Application 19463260 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6035.94300000 cycles (5733252.50)
+Execution time (harmonic): 6098.06653174 cycles (5733252.50)
+Application 19463262 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6045.98100000 cycles (5733252.50)
+Execution time (harmonic): 6135.43856540 cycles (5733252.50)
+Application 19463263 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6148.96200000 cycles (5733252.50)
+Execution time (harmonic): 6207.95921713 cycles (5733252.50)
+Application 19463264 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6143.92300000 cycles (5733252.50)
+Execution time (harmonic): 6197.64937524 cycles (5733252.50)
+Application 19463265 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6138.12500000 cycles (5733252.50)
+Execution time (harmonic): 6154.72304227 cycles (5733252.50)
+Application 19463266 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.75300000 cycles (5733252.50)
+Execution time (harmonic): 6138.08361839 cycles (5733252.50)
+Application 19463267 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6040.88300000 cycles (5733252.50)
+Execution time (harmonic): 6116.07416212 cycles (5733252.50)
+Application 19463272 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6221.60500000 cycles (5733252.50)
+Execution time (harmonic): 6306.08722531 cycles (5733252.50)
+Application 19463273 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6696.61900000 cycles (5733252.50)
+Execution time (harmonic): 6696.08649807 cycles (5733252.50)
+Application 19463277 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.83100000 cycles (5733252.50)
+Execution time (harmonic): 6179.64825688 cycles (5733252.50)
+Application 19463281 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6115.49100000 cycles (5733252.50)
+Execution time (harmonic): 6146.36274923 cycles (5733252.50)
+Application 19463287 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6154.12900000 cycles (5733252.50)
+Execution time (harmonic): 6181.21757911 cycles (5733252.50)
+Application 19463288 resources: utime ~0s, stime ~0s, Rss ~5212, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6062.33800000 cycles (5733252.50)
+Execution time (harmonic): 6191.94649302 cycles (5733252.50)
+Application 19463291 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6111.23400000 cycles (5733252.50)
+Execution time (harmonic): 6229.48578919 cycles (5733252.50)
+Application 19463297 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6151.49600000 cycles (5733252.50)
+Execution time (harmonic): 6274.29771613 cycles (5733252.50)
+Application 19463299 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6563.99700000 cycles (5733252.50)
+Execution time (harmonic): 6578.36274207 cycles (5733252.50)
+Application 19463301 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5991.26400000 cycles (5733252.50)
+Execution time (harmonic): 6099.12154139 cycles (5733252.50)
+Application 19463302 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6649.35000000 cycles (5733252.50)
+Execution time (harmonic): 6634.61045665 cycles (5733252.50)
+Application 19463303 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6121.14300000 cycles (5733252.50)
+Execution time (harmonic): 6156.35557122 cycles (5733252.50)
+Application 19463304 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6001.87100000 cycles (5733252.50)
+Execution time (harmonic): 6089.87280782 cycles (5733252.50)
+Application 19463306 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6101.56300000 cycles (5733252.50)
+Execution time (harmonic): 6217.74770545 cycles (5733252.50)
+Application 19463307 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.80400000 cycles (5733252.50)
+Execution time (harmonic): 6195.03858685 cycles (5733252.50)
+Application 19463308 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6096.81300000 cycles (5733252.50)
+Execution time (harmonic): 6163.70479107 cycles (5733252.50)
+Application 19463311 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6008.30700000 cycles (5733252.50)
+Execution time (harmonic): 6123.05388952 cycles (5733252.50)
+Application 19463312 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6044.64300000 cycles (5733252.50)
+Execution time (harmonic): 6141.96883635 cycles (5733252.50)
+Application 19463314 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6148.26600000 cycles (5733252.50)
+Execution time (harmonic): 6289.62156724 cycles (5733252.50)
+Application 19463317 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6116.90000000 cycles (5733252.50)
+Execution time (harmonic): 6188.26120556 cycles (5733252.50)
+Application 19463318 resources: utime ~0s, stime ~0s, Rss ~5216, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6552.59300000 cycles (5733252.50)
+Execution time (harmonic): 6561.98960732 cycles (5733252.50)
+Application 19463319 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6038.32400000 cycles (5733252.50)
+Execution time (harmonic): 6380.23301546 cycles (5733252.50)
+Application 19463320 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6063.94600000 cycles (5733252.50)
+Execution time (harmonic): 6198.56350850 cycles (5733252.50)
+Application 19463321 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6118.13600000 cycles (5733252.50)
+Execution time (harmonic): 6185.52380221 cycles (5733252.50)
+Application 19463322 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.90700000 cycles (5733252.50)
+Execution time (harmonic): 6135.61292907 cycles (5733252.50)
+Application 19463323 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6025.90400000 cycles (5733252.50)
+Execution time (harmonic): 6099.25478167 cycles (5733252.50)
+Application 19463324 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6118.28200000 cycles (5733252.50)
+Execution time (harmonic): 6218.64427490 cycles (5733252.50)
+Application 19463325 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6028.03700000 cycles (5733252.50)
+Execution time (harmonic): 6068.07915819 cycles (5733252.50)
+Application 19463326 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6135.02800000 cycles (5733252.50)
+Execution time (harmonic): 6173.57593348 cycles (5733252.50)
+Application 19463327 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6001.70800000 cycles (5733252.50)
+Execution time (harmonic): 6095.46992536 cycles (5733252.50)
+Application 19463331 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6179.05400000 cycles (5733252.50)
+Execution time (harmonic): 6220.89733682 cycles (5733252.50)
+Application 19463334 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6119.65000000 cycles (5733252.50)
+Execution time (harmonic): 6174.69435893 cycles (5733252.50)
+Application 19463338 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6104.22700000 cycles (5733252.50)
+Execution time (harmonic): 6131.08840939 cycles (5733252.50)
+Application 19463340 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6025.48200000 cycles (5733252.50)
+Execution time (harmonic): 6341.94765764 cycles (5733252.50)
+Application 19463347 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6092.83200000 cycles (5733252.50)
+Execution time (harmonic): 6162.09254777 cycles (5733252.50)
+Application 19463350 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6052.43100000 cycles (5733252.50)
+Execution time (harmonic): 6139.93900111 cycles (5733252.50)
+Application 19463351 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6071.89300000 cycles (5733252.50)
+Execution time (harmonic): 6111.12951287 cycles (5733252.50)
+Application 19463354 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6161.32000000 cycles (5733252.50)
+Execution time (harmonic): 6208.97524712 cycles (5733252.50)
+Application 19463359 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6350.73500000 cycles (5733252.50)
+Execution time (harmonic): 6166.63969963 cycles (5733252.50)
+Application 19463360 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6027.81100000 cycles (5733252.50)
+Execution time (harmonic): 6108.45985343 cycles (5733252.50)
+Application 19463361 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6112.55600000 cycles (5733252.50)
+Execution time (harmonic): 6145.25846930 cycles (5733252.50)
+Application 19463362 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6078.51600000 cycles (5733252.50)
+Execution time (harmonic): 6183.18172582 cycles (5733252.50)
+Application 19463364 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6108.12000000 cycles (5733252.50)
+Execution time (harmonic): 6189.04401943 cycles (5733252.50)
+Application 19463366 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6129.97900000 cycles (5733252.50)
+Execution time (harmonic): 6150.94375713 cycles (5733252.50)
+Application 19463367 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6154.90500000 cycles (5733252.50)
+Execution time (harmonic): 6198.17789165 cycles (5733252.50)
+Application 19463369 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6166.87700000 cycles (5733252.50)
+Execution time (harmonic): 6173.85453759 cycles (5733252.50)
+Application 19463370 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6602.14800000 cycles (5733252.50)
+Execution time (harmonic): 6629.76986576 cycles (5733252.50)
+Application 19463372 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6794.64900000 cycles (5733252.50)
+Execution time (harmonic): 6838.46822876 cycles (5733252.50)
+Application 19463373 resources: utime ~0s, stime ~0s, Rss ~5220, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6118.70100000 cycles (5733252.50)
+Execution time (harmonic): 6156.35709052 cycles (5733252.50)
+Application 19463374 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5989.99400000 cycles (5733252.50)
+Execution time (harmonic): 6206.56837984 cycles (5733252.50)
+Application 19463375 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6133.59600000 cycles (5733252.50)
+Execution time (harmonic): 6173.03943524 cycles (5733252.50)
+Application 19463376 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6073.85200000 cycles (5733252.50)
+Execution time (harmonic): 6162.25621924 cycles (5733252.50)
+Application 19463377 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6023.43300000 cycles (5733252.50)
+Execution time (harmonic): 6148.45272181 cycles (5733252.50)
+Application 19463378 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6621.34900000 cycles (5733252.50)
+Execution time (harmonic): 6730.31173302 cycles (5733252.50)
+Application 19463380 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6126.09000000 cycles (5733252.50)
+Execution time (harmonic): 6191.68277817 cycles (5733252.50)
+Application 19463381 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6082.68600000 cycles (5733252.50)
+Execution time (harmonic): 6143.15465545 cycles (5733252.50)
+Application 19463382 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6522.71000000 cycles (5733252.50)
+Execution time (harmonic): 6557.13374849 cycles (5733252.50)
+Application 19463383 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6114.62100000 cycles (5733252.50)
+Execution time (harmonic): 6172.69530389 cycles (5733252.50)
+Application 19463384 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6171.58100000 cycles (5733252.50)
+Execution time (harmonic): 6163.45358694 cycles (5733252.50)
+Application 19463385 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6097.83500000 cycles (5733252.50)
+Execution time (harmonic): 6149.72780617 cycles (5733252.50)
+Application 19463391 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6097.67600000 cycles (5733252.50)
+Execution time (harmonic): 6167.19689515 cycles (5733252.50)
+Application 19463394 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6668.60500000 cycles (5733252.50)
+Execution time (harmonic): 6713.54853935 cycles (5733252.50)
+Application 19463398 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6090.04400000 cycles (5733252.50)
+Execution time (harmonic): 6179.64814372 cycles (5733252.50)
+Application 19463401 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6005.03000000 cycles (5733252.50)
+Execution time (harmonic): 6059.31187397 cycles (5733252.50)
+Application 19463406 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6089.11600000 cycles (5733252.50)
+Execution time (harmonic): 6219.60779436 cycles (5733252.50)
+Application 19463407 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6114.65700000 cycles (5733252.50)
+Execution time (harmonic): 6151.80042770 cycles (5733252.50)
+Application 19463414 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6110.84900000 cycles (5733252.50)
+Execution time (harmonic): 6257.57209881 cycles (5733252.50)
+Application 19463415 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6081.58500000 cycles (5733252.50)
+Execution time (harmonic): 6126.41825816 cycles (5733252.50)
+Application 19463417 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6043.34600000 cycles (5733252.50)
+Execution time (harmonic): 6134.13604681 cycles (5733252.50)
+Application 19463418 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6073.85100000 cycles (5733252.50)
+Execution time (harmonic): 6218.93294058 cycles (5733252.50)
+Application 19463419 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6049.84900000 cycles (5733252.50)
+Execution time (harmonic): 6088.86153357 cycles (5733252.50)
+Application 19463420 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6112.07700000 cycles (5733252.50)
+Execution time (harmonic): 6190.90594145 cycles (5733252.50)
+Application 19463421 resources: utime ~0s, stime ~0s, Rss ~5224, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6083.77200000 cycles (5733252.50)
+Execution time (harmonic): 6132.99562932 cycles (5733252.50)
+Application 19463422 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6101.80200000 cycles (5733252.50)
+Execution time (harmonic): 6134.30508148 cycles (5733252.50)
+Application 19463423 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6015.53300000 cycles (5733252.50)
+Execution time (harmonic): 6109.36234685 cycles (5733252.50)
+Application 19463424 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6102.10300000 cycles (5733252.50)
+Execution time (harmonic): 6140.48131025 cycles (5733252.50)
+Application 19463425 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6007.79200000 cycles (5733252.50)
+Execution time (harmonic): 6077.10701584 cycles (5733252.50)
+Application 19463427 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5996.80500000 cycles (5733252.50)
+Execution time (harmonic): 6067.15412673 cycles (5733252.50)
+Application 19463429 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6022.99300000 cycles (5733252.50)
+Execution time (harmonic): 6193.37357095 cycles (5733252.50)
+Application 19463430 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.54200000 cycles (5733252.50)
+Execution time (harmonic): 6169.29810062 cycles (5733252.50)
+Application 19463431 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6011.32200000 cycles (5733252.50)
+Execution time (harmonic): 6119.74259903 cycles (5733252.50)
+Application 19463433 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6146.65000000 cycles (5733252.50)
+Execution time (harmonic): 6169.96626715 cycles (5733252.50)
+Application 19463435 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6002.99000000 cycles (5733252.50)
+Execution time (harmonic): 6090.31265800 cycles (5733252.50)
+Application 19463436 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6690.04100000 cycles (5733252.50)
+Execution time (harmonic): 6672.63718131 cycles (5733252.50)
+Application 19463439 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6096.85900000 cycles (5733252.50)
+Execution time (harmonic): 6217.77908745 cycles (5733252.50)
+Application 19463440 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6063.70100000 cycles (5733252.50)
+Execution time (harmonic): 6131.43695944 cycles (5733252.50)
+Application 19463441 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6093.22900000 cycles (5733252.50)
+Execution time (harmonic): 6110.95301783 cycles (5733252.50)
+Application 19463442 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6681.60800000 cycles (5733252.50)
+Execution time (harmonic): 6652.01038458 cycles (5733252.50)
+Application 19463444 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6621.26300000 cycles (5733252.50)
+Execution time (harmonic): 6586.49853265 cycles (5733252.50)
+Application 19463445 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6114.70900000 cycles (5733252.50)
+Execution time (harmonic): 6139.13006861 cycles (5733252.50)
+Application 19463447 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6083.93700000 cycles (5733252.50)
+Execution time (harmonic): 6122.83219406 cycles (5733252.50)
+Application 19463448 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6003.91300000 cycles (5733252.50)
+Execution time (harmonic): 6053.42790801 cycles (5733252.50)
+Application 19463449 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6861.66300000 cycles (5733252.50)
+Execution time (harmonic): 6677.11090797 cycles (5733252.50)
+Application 19463450 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.39200000 cycles (5733252.50)
+Execution time (harmonic): 6233.35949075 cycles (5733252.50)
+Application 19463451 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6059.54700000 cycles (5733252.50)
+Execution time (harmonic): 6218.82022120 cycles (5733252.50)
+Application 19463452 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6057.83200000 cycles (5733252.50)
+Execution time (harmonic): 6112.85498859 cycles (5733252.50)
+Application 19463454 resources: utime ~0s, stime ~0s, Rss ~5228, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6091.95800000 cycles (5733252.50)
+Execution time (harmonic): 6110.49811071 cycles (5733252.50)
+Application 19463455 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6634.14700000 cycles (5733252.50)
+Execution time (harmonic): 6650.36999605 cycles (5733252.50)
+Application 19463458 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6151.21800000 cycles (5733252.50)
+Execution time (harmonic): 6256.62205466 cycles (5733252.50)
+Application 19463459 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6103.45400000 cycles (5733252.50)
+Execution time (harmonic): 6121.48215941 cycles (5733252.50)
+Application 19463460 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6238.33000000 cycles (5733252.50)
+Execution time (harmonic): 6322.57690163 cycles (5733252.50)
+Application 19463461 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6071.27300000 cycles (5733252.50)
+Execution time (harmonic): 6155.70726805 cycles (5733252.50)
+Application 19463463 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6067.07200000 cycles (5733252.50)
+Execution time (harmonic): 6200.80839098 cycles (5733252.50)
+Application 19463467 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6138.63100000 cycles (5733252.50)
+Execution time (harmonic): 6318.66290451 cycles (5733252.50)
+Application 19463468 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6081.41100000 cycles (5733252.50)
+Execution time (harmonic): 6235.46495705 cycles (5733252.50)
+Application 19463470 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6041.92500000 cycles (5733252.50)
+Execution time (harmonic): 6090.43096991 cycles (5733252.50)
+Application 19463476 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6062.69500000 cycles (5733252.50)
+Execution time (harmonic): 6186.96395459 cycles (5733252.50)
+Application 19463479 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6232.00300000 cycles (5733252.50)
+Execution time (harmonic): 6390.12197694 cycles (5733252.50)
+Application 19463480 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6215.93600000 cycles (5733252.50)
+Execution time (harmonic): 6328.47790784 cycles (5733252.50)
+Application 19463483 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6134.79600000 cycles (5733252.50)
+Execution time (harmonic): 6171.91090129 cycles (5733252.50)
+Application 19463484 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6185.27300000 cycles (5733252.50)
+Execution time (harmonic): 6233.15414846 cycles (5733252.50)
+Application 19463485 resources: utime ~0s, stime ~0s, Rss ~5232, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6654.06100000 cycles (5733252.50)
+Execution time (harmonic): 6677.83926308 cycles (5733252.50)
+Application 19463487 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6727.64200000 cycles (5733252.50)
+Execution time (harmonic): 6710.14914780 cycles (5733252.50)
+Application 19463488 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6640.39500000 cycles (5733252.50)
+Execution time (harmonic): 6626.13254147 cycles (5733252.50)
+Application 19463489 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6050.47800000 cycles (5733252.50)
+Execution time (harmonic): 6126.96875657 cycles (5733252.50)
+Application 19463491 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6797.35100000 cycles (5733252.50)
+Execution time (harmonic): 6789.29332026 cycles (5733252.50)
+Application 19463492 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6803.95400000 cycles (5733252.50)
+Execution time (harmonic): 6720.45145754 cycles (5733252.50)
+Application 19463493 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6607.63900000 cycles (5733252.50)
+Execution time (harmonic): 6654.18702559 cycles (5733252.50)
+Application 19463495 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.43200000 cycles (5733252.50)
+Execution time (harmonic): 6166.92850292 cycles (5733252.50)
+Application 19463497 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6048.08600000 cycles (5733252.50)
+Execution time (harmonic): 6158.70440258 cycles (5733252.50)
+Application 19463498 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6133.94700000 cycles (5733252.50)
+Execution time (harmonic): 6185.14335239 cycles (5733252.50)
+Application 19463499 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6174.36300000 cycles (5733252.50)
+Execution time (harmonic): 6288.58141044 cycles (5733252.50)
+Application 19463502 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6084.58900000 cycles (5733252.50)
+Execution time (harmonic): 6158.17797724 cycles (5733252.50)
+Application 19463503 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6241.07900000 cycles (5733252.50)
+Execution time (harmonic): 6170.72297591 cycles (5733252.50)
+Application 19463504 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6137.39100000 cycles (5733252.50)
+Execution time (harmonic): 6172.65903507 cycles (5733252.50)
+Application 19463506 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6038.18100000 cycles (5733252.50)
+Execution time (harmonic): 6138.19000542 cycles (5733252.50)
+Application 19463507 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6051.99200000 cycles (5733252.50)
+Execution time (harmonic): 6145.62340891 cycles (5733252.50)
+Application 19463509 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6122.53500000 cycles (5733252.50)
+Execution time (harmonic): 6141.59395976 cycles (5733252.50)
+Application 19463511 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6511.86700000 cycles (5733252.50)
+Execution time (harmonic): 6537.36344623 cycles (5733252.50)
+Application 19463512 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6034.41600000 cycles (5733252.50)
+Execution time (harmonic): 6104.93608816 cycles (5733252.50)
+Application 19463513 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6059.48800000 cycles (5733252.50)
+Execution time (harmonic): 6109.59341780 cycles (5733252.50)
+Application 19463515 resources: utime ~0s, stime ~0s, Rss ~5236, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6039.31900000 cycles (5733252.50)
+Execution time (harmonic): 6106.43096945 cycles (5733252.50)
+Application 19463516 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6118.03800000 cycles (5733252.50)
+Execution time (harmonic): 6198.28892855 cycles (5733252.50)
+Application 19463521 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6055.18500000 cycles (5733252.50)
+Execution time (harmonic): 6093.05520099 cycles (5733252.50)
+Application 19463524 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6165.01400000 cycles (5733252.50)
+Execution time (harmonic): 6200.89468973 cycles (5733252.50)
+Application 19463525 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6615.23100000 cycles (5733252.50)
+Execution time (harmonic): 6679.87898776 cycles (5733252.50)
+Application 19463528 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6037.45000000 cycles (5733252.50)
+Execution time (harmonic): 6078.89427161 cycles (5733252.50)
+Application 19463533 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6065.35100000 cycles (5733252.50)
+Execution time (harmonic): 6238.99217117 cycles (5733252.50)
+Application 19463534 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6079.35000000 cycles (5733252.50)
+Execution time (harmonic): 6148.34007633 cycles (5733252.50)
+Application 19463535 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6137.93300000 cycles (5733252.50)
+Execution time (harmonic): 6169.93220800 cycles (5733252.50)
+Application 19463536 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6029.93100000 cycles (5733252.50)
+Execution time (harmonic): 6102.33153950 cycles (5733252.50)
+Application 19463537 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6055.25000000 cycles (5733252.50)
+Execution time (harmonic): 6137.34534391 cycles (5733252.50)
+Application 19463538 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6027.82300000 cycles (5733252.50)
+Execution time (harmonic): 6128.83495205 cycles (5733252.50)
+Application 19463539 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6129.73400000 cycles (5733252.50)
+Execution time (harmonic): 6186.98538059 cycles (5733252.50)
+Application 19463540 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6026.22800000 cycles (5733252.50)
+Execution time (harmonic): 6132.36204628 cycles (5733252.50)
+Application 19463542 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6611.88500000 cycles (5733252.50)
+Execution time (harmonic): 6722.02762051 cycles (5733252.50)
+Application 19463543 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6036.30000000 cycles (5733252.50)
+Execution time (harmonic): 6122.55120164 cycles (5733252.50)
+Application 19463545 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6049.08300000 cycles (5733252.50)
+Execution time (harmonic): 6094.07596316 cycles (5733252.50)
+Application 19463546 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6009.42100000 cycles (5733252.50)
+Execution time (harmonic): 6092.94941758 cycles (5733252.50)
+Application 19463547 resources: utime ~0s, stime ~0s, Rss ~5240, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6152.78500000 cycles (5733252.50)
+Execution time (harmonic): 6184.38768717 cycles (5733252.50)
+Application 19463549 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6090.69100000 cycles (5733252.50)
+Execution time (harmonic): 6141.41494106 cycles (5733252.50)
+Application 19463550 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6069.13500000 cycles (5733252.50)
+Execution time (harmonic): 6183.39563531 cycles (5733252.50)
+Application 19463551 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6040.85000000 cycles (5733252.50)
+Execution time (harmonic): 6198.92614812 cycles (5733252.50)
+Application 19463552 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6042.54800000 cycles (5733252.50)
+Execution time (harmonic): 6180.51568040 cycles (5733252.50)
+Application 19463553 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6085.98400000 cycles (5733252.50)
+Execution time (harmonic): 6192.18855794 cycles (5733252.50)
+Application 19463554 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6166.28900000 cycles (5733252.50)
+Execution time (harmonic): 6188.90103132 cycles (5733252.50)
+Application 19463555 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6014.31400000 cycles (5733252.50)
+Execution time (harmonic): 6199.02002622 cycles (5733252.50)
+Application 19463556 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6010.41600000 cycles (5733252.50)
+Execution time (harmonic): 6098.64846284 cycles (5733252.50)
+Application 19463557 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6147.60100000 cycles (5733252.50)
+Execution time (harmonic): 6257.98152540 cycles (5733252.50)
+Application 19463558 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6083.13200000 cycles (5733252.50)
+Execution time (harmonic): 6209.74254958 cycles (5733252.50)
+Application 19463559 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6040.45600000 cycles (5733252.50)
+Execution time (harmonic): 6174.31309914 cycles (5733252.50)
+Application 19463560 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6080.65600000 cycles (5733252.50)
+Execution time (harmonic): 6143.42369400 cycles (5733252.50)
+Application 19463562 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6019.61200000 cycles (5733252.50)
+Execution time (harmonic): 6108.81565823 cycles (5733252.50)
+Application 19463563 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.11400000 cycles (5733252.50)
+Execution time (harmonic): 6124.34500109 cycles (5733252.50)
+Application 19463564 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6021.49000000 cycles (5733252.50)
+Execution time (harmonic): 6182.87285795 cycles (5733252.50)
+Application 19463565 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6614.75400000 cycles (5733252.50)
+Execution time (harmonic): 6598.60889537 cycles (5733252.50)
+Application 19463566 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6111.35300000 cycles (5733252.50)
+Execution time (harmonic): 6147.08757341 cycles (5733252.50)
+Application 19463567 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6089.39800000 cycles (5733252.50)
+Execution time (harmonic): 6255.90975181 cycles (5733252.50)
+Application 19463568 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6146.37200000 cycles (5733252.50)
+Execution time (harmonic): 6299.52216881 cycles (5733252.50)
+Application 19463570 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6112.48000000 cycles (5733252.50)
+Execution time (harmonic): 6110.99936926 cycles (5733252.50)
+Application 19463571 resources: utime ~0s, stime ~0s, Rss ~5264, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6029.22800000 cycles (5733252.50)
+Execution time (harmonic): 6122.04408737 cycles (5733252.50)
+Application 19463573 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6004.22700000 cycles (5733252.50)
+Execution time (harmonic): 6119.99157193 cycles (5733252.50)
+Application 19463574 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6046.30900000 cycles (5733252.50)
+Execution time (harmonic): 6109.76421867 cycles (5733252.50)
+Application 19463575 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6076.21700000 cycles (5733252.50)
+Execution time (harmonic): 6177.67437765 cycles (5733252.50)
+Application 19463577 resources: utime ~0s, stime ~0s, Rss ~5244, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6121.87200000 cycles (5733252.50)
+Execution time (harmonic): 6172.42444950 cycles (5733252.50)
+Application 19463578 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6075.16300000 cycles (5733252.50)
+Execution time (harmonic): 6139.79610781 cycles (5733252.50)
+Application 19463579 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6553.65600000 cycles (5733252.50)
+Execution time (harmonic): 6568.67763116 cycles (5733252.50)
+Application 19463581 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6044.68200000 cycles (5733252.50)
+Execution time (harmonic): 6119.43397174 cycles (5733252.50)
+Application 19463588 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6088.31100000 cycles (5733252.50)
+Execution time (harmonic): 6155.95259325 cycles (5733252.50)
+Application 19463590 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6011.83000000 cycles (5733252.50)
+Execution time (harmonic): 6102.26209577 cycles (5733252.50)
+Application 19463595 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6163.12200000 cycles (5733252.50)
+Execution time (harmonic): 6188.07831347 cycles (5733252.50)
+Application 19463599 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6631.46700000 cycles (5733252.50)
+Execution time (harmonic): 6614.38850580 cycles (5733252.50)
+Application 19463600 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.49500000 cycles (5733252.50)
+Execution time (harmonic): 6173.58422208 cycles (5733252.50)
+Application 19463601 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6113.66700000 cycles (5733252.50)
+Execution time (harmonic): 6226.96479743 cycles (5733252.50)
+Application 19463603 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6229.20700000 cycles (5733252.50)
+Execution time (harmonic): 6118.10329828 cycles (5733252.50)
+Application 19463604 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6320.03000000 cycles (5733252.50)
+Execution time (harmonic): 6204.89885647 cycles (5733252.50)
+Application 19463605 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6117.11200000 cycles (5733252.50)
+Execution time (harmonic): 6144.57755569 cycles (5733252.50)
+Application 19463606 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6104.61600000 cycles (5733252.50)
+Execution time (harmonic): 6131.32224921 cycles (5733252.50)
+Application 19463607 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6004.81300000 cycles (5733252.50)
+Execution time (harmonic): 6072.93797786 cycles (5733252.50)
+Application 19463608 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6521.34700000 cycles (5733252.50)
+Execution time (harmonic): 6161.71250994 cycles (5733252.50)
+Application 19463609 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6229.20300000 cycles (5733252.50)
+Execution time (harmonic): 6245.31992075 cycles (5733252.50)
+Application 19463610 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6544.47000000 cycles (5733252.50)
+Execution time (harmonic): 6649.04443898 cycles (5733252.50)
+Application 19463611 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6054.64300000 cycles (5733252.50)
+Execution time (harmonic): 6179.07520662 cycles (5733252.50)
+Application 19463612 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6096.94400000 cycles (5733252.50)
+Execution time (harmonic): 6131.76867939 cycles (5733252.50)
+Application 19463614 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6583.50500000 cycles (5733252.50)
+Execution time (harmonic): 6562.95703954 cycles (5733252.50)
+Application 19463615 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6159.30800000 cycles (5733252.50)
+Execution time (harmonic): 6308.32303427 cycles (5733252.50)
+Application 19463616 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6107.31100000 cycles (5733252.50)
+Execution time (harmonic): 6125.29662433 cycles (5733252.50)
+Application 19463617 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6019.86500000 cycles (5733252.50)
+Execution time (harmonic): 6095.86098883 cycles (5733252.50)
+Application 19463618 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6133.87800000 cycles (5733252.50)
+Execution time (harmonic): 6181.26931124 cycles (5733252.50)
+Application 19463619 resources: utime ~0s, stime ~0s, Rss ~5268, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6031.12500000 cycles (5733252.50)
+Execution time (harmonic): 6130.29342487 cycles (5733252.50)
+Application 19463620 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6559.69400000 cycles (5733252.50)
+Execution time (harmonic): 6549.18328025 cycles (5733252.50)
+Application 19463621 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6593.63800000 cycles (5733252.50)
+Execution time (harmonic): 6229.34196699 cycles (5733252.50)
+Application 19463622 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6124.18300000 cycles (5733252.50)
+Execution time (harmonic): 6271.70116312 cycles (5733252.50)
+Application 19463623 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.05000000 cycles (5733252.50)
+Execution time (harmonic): 6124.23048765 cycles (5733252.50)
+Application 19463624 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6119.39900000 cycles (5733252.50)
+Execution time (harmonic): 6205.51167256 cycles (5733252.50)
+Application 19463626 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6107.55100000 cycles (5733252.50)
+Execution time (harmonic): 6185.65428414 cycles (5733252.50)
+Application 19463628 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6097.35000000 cycles (5733252.50)
+Execution time (harmonic): 6202.14826375 cycles (5733252.50)
+Application 19463634 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6155.65100000 cycles (5733252.50)
+Execution time (harmonic): 6286.40707379 cycles (5733252.50)
+Application 19463637 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6131.59500000 cycles (5733252.50)
+Execution time (harmonic): 6207.51390610 cycles (5733252.50)
+Application 19463644 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6005.32900000 cycles (5733252.50)
+Execution time (harmonic): 6134.34022078 cycles (5733252.50)
+Application 19463647 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6156.05500000 cycles (5733252.50)
+Execution time (harmonic): 6202.41582660 cycles (5733252.50)
+Application 19463648 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6354.23200000 cycles (5733252.50)
+Execution time (harmonic): 6164.15086682 cycles (5733252.50)
+Application 19463649 resources: utime ~0s, stime ~0s, Rss ~5248, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6650.46900000 cycles (5733252.50)
+Execution time (harmonic): 6418.47802069 cycles (5733252.50)
+Application 19463650 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6557.81600000 cycles (5733252.50)
+Execution time (harmonic): 6632.55098229 cycles (5733252.50)
+Application 19463651 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6044.11200000 cycles (5733252.50)
+Execution time (harmonic): 6136.99461931 cycles (5733252.50)
+Application 19463652 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5985.70400000 cycles (5733252.50)
+Execution time (harmonic): 6038.50483914 cycles (5733252.50)
+Application 19463653 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6111.44500000 cycles (5733252.50)
+Execution time (harmonic): 6193.56226771 cycles (5733252.50)
+Application 19463654 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6095.98900000 cycles (5733252.50)
+Execution time (harmonic): 6188.09119561 cycles (5733252.50)
+Application 19463655 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5966.19800000 cycles (5733252.50)
+Execution time (harmonic): 6056.93228445 cycles (5733252.50)
+Application 19463656 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6143.84800000 cycles (5733252.50)
+Execution time (harmonic): 6249.23705151 cycles (5733252.50)
+Application 19463657 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6164.36800000 cycles (5733252.50)
+Execution time (harmonic): 6227.49177430 cycles (5733252.50)
+Application 19463659 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.09700000 cycles (5733252.50)
+Execution time (harmonic): 6175.34793632 cycles (5733252.50)
+Application 19463660 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5985.71200000 cycles (5733252.50)
+Execution time (harmonic): 6131.94249283 cycles (5733252.50)
+Application 19463661 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5995.11100000 cycles (5733252.50)
+Execution time (harmonic): 6142.27644155 cycles (5733252.50)
+Application 19463662 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6046.76700000 cycles (5733252.50)
+Execution time (harmonic): 6108.65783497 cycles (5733252.50)
+Application 19463663 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6087.60200000 cycles (5733252.50)
+Execution time (harmonic): 6090.24400790 cycles (5733252.50)
+Application 19463664 resources: utime ~0s, stime ~0s, Rss ~5252, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6058.53400000 cycles (5733252.50)
+Execution time (harmonic): 6133.05507380 cycles (5733252.50)
+Application 19463665 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6056.01300000 cycles (5733252.50)
+Execution time (harmonic): 6138.69861251 cycles (5733252.50)
+Application 19463667 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6008.70600000 cycles (5733252.50)
+Execution time (harmonic): 6089.89250335 cycles (5733252.50)
+Application 19463668 resources: utime ~0s, stime ~0s, Rss ~5272, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6122.13300000 cycles (5733252.50)
+Execution time (harmonic): 6184.18225685 cycles (5733252.50)
+Application 19463669 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6610.13100000 cycles (5733252.50)
+Execution time (harmonic): 6586.65319311 cycles (5733252.50)
+Application 19463670 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5998.85600000 cycles (5733252.50)
+Execution time (harmonic): 6095.66785334 cycles (5733252.50)
+Application 19463671 resources: utime ~0s, stime ~0s, Rss ~5276, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6085.13300000 cycles (5733252.50)
+Execution time (harmonic): 6157.10994814 cycles (5733252.50)
+Application 19463672 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6259.23000000 cycles (5733252.50)
+Execution time (harmonic): 6315.50677949 cycles (5733252.50)
+Application 19463673 resources: utime ~0s, stime ~0s, Rss ~5276, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5993.58900000 cycles (5733252.50)
+Execution time (harmonic): 6179.44486672 cycles (5733252.50)
+Application 19463674 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6738.28700000 cycles (5733252.50)
+Execution time (harmonic): 6669.50924809 cycles (5733252.50)
+Application 19463675 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6064.89300000 cycles (5733252.50)
+Execution time (harmonic): 6154.78054672 cycles (5733252.50)
+Application 19463676 resources: utime ~0s, stime ~0s, Rss ~5276, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6109.82500000 cycles (5733252.50)
+Execution time (harmonic): 6219.94043299 cycles (5733252.50)
+Application 19463677 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6071.37700000 cycles (5733252.50)
+Execution time (harmonic): 6280.04902270 cycles (5733252.50)
+Application 19463678 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6199.20900000 cycles (5733252.50)
+Execution time (harmonic): 6156.22152973 cycles (5733252.50)
+Application 19463679 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5995.04600000 cycles (5733252.50)
+Execution time (harmonic): 6111.27985846 cycles (5733252.50)
+Application 19463680 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6091.39100000 cycles (5733252.50)
+Execution time (harmonic): 6138.75920222 cycles (5733252.50)
+Application 19463681 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6095.76500000 cycles (5733252.50)
+Execution time (harmonic): 6203.72358822 cycles (5733252.50)
+Application 19463682 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6099.42600000 cycles (5733252.50)
+Execution time (harmonic): 6128.80769808 cycles (5733252.50)
+Application 19463683 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6141.42600000 cycles (5733252.50)
+Execution time (harmonic): 6301.23969056 cycles (5733252.50)
+Application 19463684 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6069.19000000 cycles (5733252.50)
+Execution time (harmonic): 6158.68305753 cycles (5733252.50)
+Application 19463685 resources: utime ~0s, stime ~0s, Rss ~5256, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6107.70800000 cycles (5733252.50)
+Execution time (harmonic): 6152.31985427 cycles (5733252.50)
+Application 19463687 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6098.36200000 cycles (5733252.50)
+Execution time (harmonic): 6272.74054296 cycles (5733252.50)
+Application 19463691 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6020.04700000 cycles (5733252.50)
+Execution time (harmonic): 6153.75629611 cycles (5733252.50)
+Application 19463696 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6144.91400000 cycles (5733252.50)
+Execution time (harmonic): 6203.39221181 cycles (5733252.50)
+Application 19463702 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6551.96000000 cycles (5733252.50)
+Execution time (harmonic): 6570.62077266 cycles (5733252.50)
+Application 19463704 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6098.32900000 cycles (5733252.50)
+Execution time (harmonic): 6153.55915421 cycles (5733252.50)
+Application 19463706 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6126.78400000 cycles (5733252.50)
+Execution time (harmonic): 6128.78363959 cycles (5733252.50)
+Application 19463707 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6080.75700000 cycles (5733252.50)
+Execution time (harmonic): 6143.83132959 cycles (5733252.50)
+Application 19463708 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6134.81900000 cycles (5733252.50)
+Execution time (harmonic): 6193.05022736 cycles (5733252.50)
+Application 19463709 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6081.90300000 cycles (5733252.50)
+Execution time (harmonic): 6122.47866506 cycles (5733252.50)
+Application 19463710 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6098.65100000 cycles (5733252.50)
+Execution time (harmonic): 6130.78212605 cycles (5733252.50)
+Application 19463711 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6018.65700000 cycles (5733252.50)
+Execution time (harmonic): 6126.50728649 cycles (5733252.50)
+Application 19463712 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6140.85400000 cycles (5733252.50)
+Execution time (harmonic): 6204.77986491 cycles (5733252.50)
+Application 19463713 resources: utime ~0s, stime ~0s, Rss ~5280, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6036.70100000 cycles (5733252.50)
+Execution time (harmonic): 6155.59325839 cycles (5733252.50)
+Application 19463714 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6128.62800000 cycles (5733252.50)
+Execution time (harmonic): 6145.27219841 cycles (5733252.50)
+Application 19463715 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6145.18600000 cycles (5733252.50)
+Execution time (harmonic): 6225.88277973 cycles (5733252.50)
+Application 19463717 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6577.45600000 cycles (5733252.50)
+Execution time (harmonic): 6588.21032492 cycles (5733252.50)
+Application 19463722 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6218.43300000 cycles (5733252.50)
+Execution time (harmonic): 6266.27798524 cycles (5733252.50)
+Application 19463723 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6103.88700000 cycles (5733252.50)
+Execution time (harmonic): 6154.46334962 cycles (5733252.50)
+Application 19463724 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6648.11900000 cycles (5733252.50)
+Execution time (harmonic): 6620.25463780 cycles (5733252.50)
+Application 19463725 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6732.15600000 cycles (5733252.50)
+Execution time (harmonic): 6755.38089339 cycles (5733252.50)
+Application 19463726 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6113.85800000 cycles (5733252.50)
+Execution time (harmonic): 6219.62080403 cycles (5733252.50)
+Application 19463727 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6167.22000000 cycles (5733252.50)
+Execution time (harmonic): 6215.46311230 cycles (5733252.50)
+Application 19463728 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6075.92200000 cycles (5733252.50)
+Execution time (harmonic): 6126.89296956 cycles (5733252.50)
+Application 19463729 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6197.63500000 cycles (5733252.50)
+Execution time (harmonic): 6163.25891288 cycles (5733252.50)
+Application 19463730 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 5987.24100000 cycles (5733252.50)
+Execution time (harmonic): 6119.63281937 cycles (5733252.50)
+Application 19463732 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6091.27600000 cycles (5733252.50)
+Execution time (harmonic): 6150.97085047 cycles (5733252.50)
+Application 19463733 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6067.65700000 cycles (5733252.50)
+Execution time (harmonic): 6194.38344292 cycles (5733252.50)
+Application 19463734 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6630.15100000 cycles (5733252.50)
+Execution time (harmonic): 6705.53033830 cycles (5733252.50)
+Application 19463735 resources: utime ~0s, stime ~0s, Rss ~5260, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6047.53600000 cycles (5733252.50)
+Execution time (harmonic): 6138.05294635 cycles (5733252.50)
+Application 19463736 resources: utime ~0s, stime ~0s, Rss ~5284, inblocks ~2563, outblocks ~6713
+Execution time (arithmetic): 6049.78400000 cycles (5733252.50)
+Execution time (harmonic): 6112.80819489 cycles (5733252.50)
+Application 19463737 resources: utime ~0s, stime ~0s, Rss ~5200, inblocks ~2563, outblocks ~6713
