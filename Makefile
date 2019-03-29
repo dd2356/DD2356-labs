@@ -1,4 +1,4 @@
-CC = cc
+CC = CC
 CFLAGS = -Wall -O3
 $(eval REMAINDER := $$$(USER))
 USERNAME_PREFIX = $(subst $(REMAINDER),,$(USER))
